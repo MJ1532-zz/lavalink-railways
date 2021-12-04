@@ -18,4 +18,4 @@ Lavalink cant play copyrighted stuff in railway region (If owner of the vids blo
 [![Deploy ON Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/KagChi/lavalink-railways)
 
 ### Credits
-- This Code All By [KagChi](https://github.com/KagChi/) U Can Also Check Hes [Repositories](htttps://github.com/Kagchi/lavalink-railways)
+- This Code All By [KagChi](https://github.com/KagChi/) U Can Also Check Hes [Repositories](htttps://github.com/Kagchi/lavalink-railways/)
