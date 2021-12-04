@@ -4,7 +4,7 @@
 USE AT YOUR OWN RISK, I DONT TAKE ANY RESPONSBILITY.
 
 ### About me
-Personally i dont use railway for lavalink. I use replit instead railway. Why? Because railway sometime being weird, 404 error, randomly disconnect, etc.
+Personally i dont use railway for lavalink. Why? Because railway sometime being weird, 404 error, randomly disconnect, etc.
 
 ### Copyrighted stuff
 Lavalink cant play copyrighted stuff in railway region (If owner of the vids blocked railway region located at) and will not!
